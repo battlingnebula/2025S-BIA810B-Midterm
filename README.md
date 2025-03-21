@@ -1,2 +1,1 @@
-# 2025SBIA810BMidterm
-Syntegra datasets - Medicare CCLF Claims
+# 2025S BIA810B Midterm - Syntegra Medicare CCLF Claims Data Analysis
